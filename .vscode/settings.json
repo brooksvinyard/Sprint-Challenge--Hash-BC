@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/Users/brooksvinyard/.local/share/virtualenvs/Sprint-Challenge--Hash-BC-AGZEP4Yc/bin/python",
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true
+}
